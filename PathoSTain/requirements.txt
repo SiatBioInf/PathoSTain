@@ -1,6 +1,0 @@
-numpy
-pandas
-pyarrow
-PyYAML
-scipy
-torch
