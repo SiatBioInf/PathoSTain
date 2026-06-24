@@ -1,6 +1,6 @@
-numpy
-pandas
-pyarrow
-PyYAML
-scipy
-torch
+numpy==1.26.4
+pandas==2.2.2
+pyarrow==15.0.2
+PyYAML==6.0.1
+scipy==1.11.4
+torch==2.2.2
